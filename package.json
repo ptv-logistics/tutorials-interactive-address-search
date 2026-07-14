@@ -11,6 +11,9 @@
     "react-map-gl": "7.1.4",
     "react-scripts": "5.0.1"
   },
+  "overrides": {
+    "shell-quote": ">=1.8.4"
+  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build"
